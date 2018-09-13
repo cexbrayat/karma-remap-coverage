@@ -331,9 +331,9 @@ readable-stream@~2.0.0:
     string_decoder "~0.10.x"
     util-deprecate "~1.0.1"
 
-remap-istanbul@^0.10:
-  version "0.10.1"
-  resolved "https://registry.yarnpkg.com/remap-istanbul/-/remap-istanbul-0.10.1.tgz#3aa58dd5021d499f336d3ba5bf3bbb91c1b88e37"
+remap-istanbul@^0.12:
+  version "0.12.0"
+  resolved "https://registry.yarnpkg.com/remap-istanbul/-/remap-istanbul-0.12.0.tgz#7215642017d01a8c4a51bdb41be35297ec71fc4e"
   dependencies:
     amdefine "^1.0.0"
     istanbul "0.4.5"
